@@ -1,0 +1,121 @@
+Gender,Age,Sleep Duration,Working Professional or Student,Profession,Study Degree,CGPA,Work/Study Hours,Academic/Work Pressure,Study/Job Satisfaction,Financial Stress,Dietary Habits,Suicidal Thoughts,Family Mental Illness History,Marital Status,Religious Person,Living with Family,Living Environment Satisfaction,Night/Day Sleep Preference,Physical Activity Frequency,Smoking,Alcohol Consumption,Social Media Usage Hours,Body Image Satisfaction,Self-Comparison,Loneliness Frequency,Depression
+Male,20,More than 8 hours,Student,Student,Master’s Degree,7.0,11,4,4,3,Moderate,No,yes,Single,yes,no,yes,At night,Sometimes,no,no,Less than 1 hour,5,No,Never,No
+Male,23,5-6 hours,Student,Student,Bachelor’s Degree,8.0,5,3,4,4,Healthy,No,no,Single,yes,no,yes,At night,Regularly,no,no,1-2 hours,2,Yes,Sometimes,No
+Male,22,5-6 hours,Working Professional,Unknown,PhD,7.0,3,3,2,4,Moderate,No,no,Single,yes,yes,no,At night,Sometimes,yes,no,1-2 hours,4,No,Never,No
+Male,18,5-6 hours,Working Professional,E-commerce,High School,7.0,6,3,4,1,Moderate,No,yes,Single,yes,yes,no,At night,Never,no,no,2-4 hours,3,Yes,Sometimes,No
+Male,17,Less than 5 hours,Student,Student,High School,6.0,6,2,2,4,Unhealthy,No,no,Single,yes,yes,no,At night,Never,no,no,1-2 hours,4,No,Sometimes,No
+Male,18,5-6 hours,Student,Commercial,High School,6.0,5,1,1,3,Moderate,No,no,Single,yes,yes,no,At night,Sometimes,no,no,2-4 hours,4,No,Never,No
+Male,17,More than 8 hours,Student,Student,High School,10.0,8,3,1,2,Unhealthy,No,no,Single,yes,yes,no,At night,Sometimes,no,no,1-2 hours,5,No,Never,No
+Male,47,5-6 hours,Working Professional,Warehouse Worker,Bachelor’s Degree,7.0,7,3,4,3,Healthy,No,no,Married,yes,yes,yes,At night,Regularly,no,no,1-2 hours,4,No,Sometimes,No
+Male,24,7-8 hours,Working Professional,Craftsman,Preparatory Classes,7.0,7,3,2,3,Healthy,No,no,Single,yes,yes,no,At night,Sometimes,no,no,2-4 hours,3,Yes,Sometimes,No
+Female,43,5-6 hours,Working Professional,Decorator,Master’s Degree,7.0,9,3,4,4,Moderate,No,no,Married,yes,yes,yes,At night,Regularly,no,no,1-2 hours,5,No,Sometimes,No
+Male,20,7-8 hours,Student,Student,Bachelor’s Degree,6.0,5,3,3,3,Healthy,No,no,Single,yes,yes,no,At night,Never,no,no,1-2 hours,5,No,Never,No
+Male,57,5-6 hours,Student,Unknown,Bachelor’s Degree,5.0,5,2,3,2,Healthy,No,yes,Married,yes,no,yes,During the day,Regularly,no,yes,2-4 hours,5,No,Sometimes,No
+Female,20,7-8 hours,Student,Student,Master’s Degree,7.5,10,4,5,3,Moderate,No,no,Single,no,yes,yes,At night,Sometimes,no,no,2-4 hours,3,No,Sometimes,No
+Female,20,7-8 hours,Student,Student,Preparatory Classes,7.0,4,3,2,3,Moderate,No,no,Single,yes,no,no,During the day,Sometimes,no,no,2-4 hours,4,No,Never,No
+Male,19,7-8 hours,Student,Student,Engineering Diploma,7.0,3,2,2,3,Moderate,No,no,Single,yes,yes,yes,At night,Sometimes,no,no,1-2 hours,5,No,Never,No
+Female,22,5-6 hours,Student,Student,Engineering Diploma,7.5,5,3,3,1,Moderate,No,no,Single,yes,no,no,At night,Never,no,no,1-2 hours,3,Yes,Sometimes,No
+Male,20,7-8 hours,Student,Student,Engineering Diploma,7.0,6,3,4,1,Moderate,No,yes,Single,yes,yes,yes,At night,Never,no,no,2-4 hours,5,No,Sometimes,No
+Female,21,5-6 hours,Student,Student,Master’s Degree,7.0,6,4,3,2,Moderate,No,no,Single,yes,no,yes,At night,Sometimes,no,no,2-4 hours,4,Yes,Sometimes,No
+Female,20,5-6 hours,Student,Student,Engineering Diploma,8.0,10,5,3,3,Moderate,No,yes,Single,yes,yes,yes,At night,Never,no,no,1-2 hours,4,Yes,Sometimes,No
+Female,21,7-8 hours,Student,Student,Engineering Diploma,7.41,9,4,3,2,Moderate,No,no,Single,yes,yes,yes,At night,Never,no,no,1-2 hours,4,No,Sometimes,Yes
+Male,20,7-8 hours,Student,Student,Bachelor’s Degree,6.5,6,4,4,3,Healthy,No,yes,Single,no,yes,yes,At night,Sometimes,no,no,1-2 hours,4,Yes,Sometimes,No
+Female,19,7-8 hours,Student,Student,Engineering Diploma,8.0,8,4,4,3,Moderate,No,yes,Single,yes,no,no,At night,Never,no,no,2-4 hours,4,No,Sometimes,No
+Female,21,5-6 hours,Student,Student,Engineering Diploma,7.0,12,4,3,3,Moderate,No,no,Single,yes,no,no,At night,Never,no,no,1-2 hours,4,No,Never,No
+Male,19,5-6 hours,Student,Student,Preparatory Classes,6.0,4,4,3,2,Moderate,No,no,Single,yes,yes,yes,At night,Never,no,no,2-4 hours,3,No,Never,No
+Male,21,7-8 hours,Student,Student,Preparatory Classes,8.35,6,4,3,4,Moderate,No,no,Single,yes,yes,no,At night,Sometimes,no,no,2-4 hours,3,No,Sometimes,No
+Male,24,5-6 hours,Student,Student,PhD,8.0,8,1,5,1,Healthy,No,no,Single,yes,no,yes,At night,Regularly,yes,no,Less than 1 hour,5,No,Never,No
+Male,20,More than 8 hours,Student,Student,Engineering Diploma,6.5,4,3,3,3,Unhealthy,No,no,Single,yes,yes,yes,During the day,Never,no,no,More than 6 hours,5,No,Never,No
+Female,20,7-8 hours,Student,Student,Engineering Diploma,7.0,8,2,3,3,Moderate,No,no,Single,yes,no,no,At night,Sometimes,no,no,1-2 hours,4,No,Sometimes,No
+Female,24,7-8 hours,Student,Student,Engineering Diploma,7.5,6,5,4,5,Moderate,No,yes,Single,yes,yes,yes,At night,Regularly,no,no,1-2 hours,5,No,Frequently,Yes
+Female,22,5-6 hours,Student,Student,Master’s Degree,7.0,5,3,3,2,Moderate,Yes,yes,Single,no,no,no,During the day,Never,no,no,Less than 1 hour,4,No,Sometimes,No
+Male,21,More than 8 hours,Student,Student,Bachelor’s Degree,7.0,5,1,3,1,Moderate,No,no,Single,no,no,no,At night,Never,no,no,1-2 hours,5,No,Sometimes,No
+Female,21,5-6 hours,Student,Student,Engineering Diploma,8.5,6,3,3,2,Moderate,No,no,Single,yes,no,yes,At night,Sometimes,no,no,1-2 hours,4,No,Sometimes,No
+Female,22,More than 8 hours,Student,Student,Engineering Diploma,6.0,5,3,3,3,Moderate,No,no,Single,yes,no,yes,At night,Never,no,no,2-4 hours,4,No,Frequently,No
+Female,20,7-8 hours,Student,Student,Engineering Diploma,7.0,8,3,3,2,Moderate,No,yes,Single,yes,yes,yes,At night,Sometimes,no,no,2-4 hours,5,No,Never,No
+Male,20,7-8 hours,Student,Student,Engineering Diploma,5.0,6,4,1,3,Moderate,No,no,Single,yes,no,no,At night,Sometimes,no,no,2-4 hours,1,Yes,Never,No
+Male,21,7-8 hours,Student,Student,Engineering Diploma,6.0,4,3,2,2,Unhealthy,No,no,Single,no,yes,no,At night,Sometimes,no,no,2-4 hours,4,No,Sometimes,Yes
+Male,22,5-6 hours,Student,Student,Engineering Diploma,7.5,7,1,2,2,Moderate,No,no,Single,yes,no,no,At night,Sometimes,no,no,2-4 hours,5,No,Never,No
+Female,22,7-8 hours,Student,Student,Engineering Diploma,6.0,3,4,2,4,Moderate,No,no,Single,yes,no,yes,At night,Never,no,no,2-4 hours,5,No,Sometimes,No
+Female,20,More than 8 hours,Student,Student,Preparatory Classes,10.0,0,3,2,1,Moderate,No,yes,Single,yes,no,yes,At night,Never,no,no,Less than 1 hour,4,No,Never,Yes
+Female,17,7-8 hours,Student,Student,Preparatory Classes,8.0,2,3,3,1,Healthy,No,no,Single,no,yes,no,At night,Regularly,no,no,2-4 hours,5,No,Never,No
+Female,20,7-8 hours,Student,Student,Engineering Diploma,7.5,7,3,3,1,Moderate,No,no,Single,yes,yes,yes,At night,Sometimes,no,no,2-4 hours,5,No,Never,No
+Male,20,7-8 hours,Student,Student,Engineering Diploma,7.25,8,4,5,4,Healthy,No,yes,Single,yes,yes,no,At night,Regularly,no,no,2-4 hours,4,No,Sometimes,No
+Female,21,7-8 hours,Student,Student,Engineering Diploma,7.5,6,3,4,1,Moderate,No,no,Single,yes,yes,yes,At night,Sometimes,no,no,1-2 hours,5,No,Sometimes,No
+Female,20,7-8 hours,Student,Student,Preparatory Classes,7.0,5,3,3,2,Moderate,No,no,Single,no,no,yes,At night,Regularly,no,no,1-2 hours,4,No,Never,No
+Female,20,7-8 hours,Student,Student,Engineering Diploma,7.5,4,3,3,2,Moderate,No,no,Single,yes,yes,yes,At night,Never,no,no,1-2 hours,5,Yes,Never,No
+Male,21,Less than 5 hours,Student,Student,Bachelor’s Degree,7.0,6,3,5,1,Unhealthy,No,no,Single,yes,yes,yes,At night,Never,no,no,1-2 hours,5,No,Sometimes,No
+Female,19,7-8 hours,Student,Student,High School,6.0,3,3,2,3,Moderate,Yes,no,Single,yes,no,yes,At night,Sometimes,no,no,4-6 hours,5,Yes,Sometimes,No
+Female,19,7-8 hours,Student,Student,Preparatory Classes,6.5,5,1,3,2,Moderate,No,no,Single,yes,no,yes,At night,Sometimes,no,no,1-2 hours,5,No,Never,No
+Female,22,5-6 hours,Student,Student,Engineering Diploma,7.5,4,4,2,3,Moderate,No,no,Single,yes,no,no,At night,Never,no,no,4-6 hours,2,Yes,Frequently,No
+Male,19,5-6 hours,Student,Student,Preparatory Classes,8.5,12,5,5,2,Moderate,No,no,Single,no,no,no,At night,Regularly,no,no,Less than 1 hour,5,No,Sometimes,No
+Female,21,5-6 hours,Student,Student,Engineering Diploma,6.0,4,3,2,2,Moderate,No,no,Married,yes,yes,yes,At night,Sometimes,no,no,2-4 hours,4,No,Sometimes,No
+Female,20,5-6 hours,Student,Student,Engineering Diploma,7.0,8,1,1,5,Healthy,No,no,Single,no,no,no,At night,Never,no,yes,1-2 hours,5,Yes,Sometimes,No
+Female,19,5-6 hours,Student,Student,Engineering Diploma,7.0,6,5,1,4,Moderate,No,no,Single,yes,no,no,At night,Regularly,no,no,4-6 hours,5,No,Frequently,No
+Female,20,5-6 hours,Student,Student,Engineering Diploma,8.5,7,4,3,5,Moderate,No,no,Single,yes,yes,yes,During the day,Sometimes,no,no,1-2 hours,5,No,Sometimes,Yes
+Female,22,7-8 hours,Student,Student,Engineering Diploma,8.0,13,5,2,5,Moderate,No,no,Single,yes,no,no,At night,Never,no,no,1-2 hours,4,No,Sometimes,Yes
+Female,20,7-8 hours,Student,Student,Engineering Diploma,7.0,13,2,3,2,Healthy,No,yes,Single,yes,yes,yes,At night,Never,no,no,1-2 hours,4,No,Sometimes,No
+Female,23,5-6 hours,Student,Student,Preparatory Classes,8.0,9,5,4,5,Healthy,Yes,no,Single,yes,no,yes,At night,Never,no,no,1-2 hours,5,Yes,Frequently,No
+Male,19,5-6 hours,Student,Student,Preparatory Classes,7.5,3,3,2,4,Healthy,No,no,Single,yes,yes,yes,At night,Sometimes,no,no,2-4 hours,4,No,Never,No
+Female,18,5-6 hours,Student,Student,Preparatory Classes,8.0,4,2,3,4,Moderate,No,no,Single,yes,no,yes,At night,Sometimes,no,no,2-4 hours,4,No,Sometimes,No
+Female,20,5-6 hours,Student,Student,Bachelor’s Degree,7.0,5,4,2,3,Unhealthy,No,no,Single,yes,no,yes,At night,Sometimes,no,no,2-4 hours,4,No,Sometimes,No
+Female,17,5-6 hours,Student,Student,Preparatory Classes,7.0,7,5,3,3,Unhealthy,No,no,Single,yes,no,yes,At night,Never,no,no,1-2 hours,4,No,Sometimes,No
+Male,18,5-6 hours,Student,Student,Bachelor’s Degree,9.5,8,1,5,1,Healthy,No,no,Single,yes,no,yes,At night,Sometimes,no,no,Less than 1 hour,5,No,Frequently,No
+Female,18,7-8 hours,Student,Student,High School,7.0,5,4,3,2,Healthy,No,no,Single,yes,no,yes,At night,Sometimes,no,no,1-2 hours,4,No,Sometimes,Yes
+Female,21,Less than 5 hours,Student,Student,Preparatory Classes,7.0,5,4,1,3,Moderate,No,no,Single,yes,yes,no,During the day,Sometimes,no,no,Less than 1 hour,4,Yes,Sometimes,No
+Male,24,Less than 5 hours,Student,Student,Engineering Diploma,7.0,0,2,4,2,Moderate,Yes,yes,Single,no,yes,no,During the day,Never,yes,yes,Less than 1 hour,5,No,Sometimes,Yes
+Male,21,Less than 5 hours,Student,Student,Bachelor’s Degree,8.0,4,3,5,2,Unhealthy,No,no,Single,yes,no,yes,During the day,Never,no,no,More than 6 hours,5,No,Sometimes,No
+Female,20,7-8 hours,Student,Student,Preparatory Classes,7.0,8,3,1,3,Moderate,No,no,Single,yes,yes,yes,At night,Regularly,no,no,2-4 hours,5,No,Frequently,No
+Female,19,7-8 hours,Student,Student,Preparatory Classes,5.0,2,4,2,2,Unhealthy,No,no,Single,yes,no,yes,At night,Never,no,no,More than 6 hours,5,Yes,Never,No
+Male,19,7-8 hours,Student,Student,Bachelor’s Degree,7.0,2,3,3,3,Moderate,No,no,Single,no,yes,no,At night,Never,no,no,2-4 hours,5,No,Never,No
+Female,19,5-6 hours,Student,Student,Preparatory Classes,6.5,2,4,1,2,Moderate,No,yes,Single,yes,yes,no,At night,Sometimes,no,no,4-6 hours,3,No,Never,Yes
+Female,19,7-8 hours,Student,Student,Preparatory Classes,6.0,1,3,1,2,Moderate,No,yes,Single,yes,no,yes,During the day,Sometimes,no,no,4-6 hours,3,Yes,Frequently,Yes
+Male,19,Less than 5 hours,Student,Student,Preparatory Classes,6.0,6,1,3,3,Moderate,No,no,Single,yes,no,no,At night,Sometimes,yes,no,2-4 hours,4,No,Sometimes,No
+Female,19,7-8 hours,Student,Student,Engineering Diploma,6.0,10,4,2,3,Moderate,No,yes,Single,yes,yes,yes,At night,Sometimes,no,no,1-2 hours,3,No,Sometimes,No
+Female,19,7-8 hours,Student,Student,Preparatory Classes,7.0,8,5,1,5,Unhealthy,No,no,Single,no,no,yes,At night,Never,no,no,4-6 hours,1,Yes,Sometimes,No
+Female,17,7-8 hours,Student,Student,High School,7.0,0,1,2,3,Moderate,No,yes,Single,yes,yes,no,At night,Sometimes,no,no,More than 6 hours,5,No,Frequently,No
+Female,19,7-8 hours,Student,Student,Preparatory Classes,8.11,6,3,4,3,Moderate,No,no,Single,yes,yes,yes,At night,Never,no,no,2-4 hours,4,No,Sometimes,No
+Male,20,7-8 hours,Student,Student,Master’s Degree,5.0,1,5,1,5,Unhealthy,No,no,Single,no,no,no,During the day,Never,yes,yes,More than 6 hours,1,No,Frequently,Yes
+Female,18,5-6 hours,Student,Student,Engineering Diploma,7.0,3,5,3,1,Moderate,No,no,Single,yes,no,yes,At night,Never,no,no,1-2 hours,4,No,Sometimes,No
+Female,20,More than 8 hours,Student,Student,Preparatory Classes,6.5,2,4,3,4,Moderate,No,no,Single,yes,yes,yes,At night,Regularly,no,no,2-4 hours,4,No,Sometimes,No
+Male,18,5-6 hours,Student,Student,Preparatory Classes,7.0,8,3,4,5,Moderate,Yes,no,Single,yes,yes,yes,At night,Sometimes,no,no,Less than 1 hour,3,No,Frequently,No
+Female,19,Less than 5 hours,Student,Student,Preparatory Classes,6.0,13,5,1,2,Moderate,Yes,yes,Single,no,no,no,During the day,Sometimes,yes,no,Less than 1 hour,1,Yes,Frequently,Yes
+Male,17,7-8 hours,Student,Student,Preparatory Classes,7.0,2,2,4,1,Moderate,No,no,Single,yes,no,yes,At night,Regularly,no,no,1-2 hours,4,No,Never,No
+Male,18,5-6 hours,Student,Student,Engineering Diploma,6.0,2,5,2,3,Moderate,No,yes,Single,yes,no,yes,At night,Sometimes,no,no,2-4 hours,2,Yes,Never,No
+Male,19,5-6 hours,Student,Student,Preparatory Classes,7.0,4,4,3,2,Moderate,No,yes,Single,yes,yes,yes,At night,Regularly,no,no,2-4 hours,2,Yes,Sometimes,No
+Male,17,5-6 hours,Student,Student,Preparatory Classes,7.0,10,3,4,4,Moderate,No,no,Single,yes,yes,yes,At night,Regularly,no,no,2-4 hours,4,No,Never,No
+Female,18,7-8 hours,Student,Student,Preparatory Classes,7.0,8,5,3,5,Moderate,No,yes,Single,yes,no,no,At night,Sometimes,no,no,2-4 hours,3,Yes,Frequently,Yes
+Female,19,7-8 hours,Student,Student,Engineering Diploma,7.0,6,5,3,3,Unhealthy,Yes,no,Single,yes,no,no,At night,Never,no,no,1-2 hours,5,Yes,Frequently,No
+Male,17,5-6 hours,Student,Student,Preparatory Classes,7.0,6,5,2,3,Moderate,No,no,Single,yes,no,no,At night,Regularly,no,no,2-4 hours,5,Yes,Sometimes,No
+Female,18,5-6 hours,Student,Student,Preparatory Classes,7.0,8,4,4,1,Moderate,No,no,Single,yes,no,yes,At night,Sometimes,no,no,4-6 hours,4,No,Sometimes,Yes
+Female,19,7-8 hours,Student,Student,Preparatory Classes,8.0,9,4,4,2,Moderate,No,no,Single,no,no,no,At night,Never,no,no,1-2 hours,4,No,Sometimes,No
+Female,17,5-6 hours,Student,Student,Preparatory Classes,7.0,6,3,2,3,Unhealthy,Yes,yes,Single,yes,no,no,At night,Never,no,no,2-4 hours,5,Yes,Frequently,No
+Female,17,7-8 hours,Student,Student,Preparatory Classes,7.0,4,3,2,2,Moderate,No,yes,Single,yes,yes,no,At night,Never,no,no,2-4 hours,4,Yes,Never,Yes
+Female,21,7-8 hours,Student,Student,Bachelor’s Degree,5.0,4,5,3,2,Moderate,Yes,no,Single,yes,no,no,At night,Never,no,no,1-2 hours,3,Yes,Sometimes,Yes
+Male,18,5-6 hours,Student,Student,Preparatory Classes,7.0,4,4,3,4,Moderate,No,no,Single,no,no,no,At night,Never,no,no,Less than 1 hour,5,No,Sometimes,Yes
+Male,28,7-8 hours,Student,Student,PhD,7.0,4,3,3,1,Unhealthy,No,no,Single,yes,yes,yes,During the day,Sometimes,no,no,1-2 hours,3,No,Sometimes,No
+Female,20,5-6 hours,Student,Student,Master’s Degree,7.0,9,4,1,4,Moderate,No,yes,Single,yes,no,no,During the day,Never,no,no,2-4 hours,2,Yes,Sometimes,No
+Male,18,7-8 hours,Student,Student,Preparatory Classes,7.0,0,4,3,4,Unhealthy,No,no,Single,no,no,no,At night,Never,no,no,4-6 hours,4,No,Never,No
+Female,20,5-6 hours,Student,Student,Bachelor’s Degree,7.0,8,4,2,3,Unhealthy,No,no,Single,yes,yes,no,At night,Sometimes,no,no,2-4 hours,2,Yes,Sometimes,No
+Male,18,7-8 hours,Student,Student,High School,7.5,6,2,4,4,Healthy,No,no,Single,yes,no,yes,At night,Never,no,no,4-6 hours,3,No,Frequently,No
+Female,17,5-6 hours,Student,Student,Preparatory Classes,7.0,2,4,3,2,Moderate,Yes,no,Single,yes,no,yes,At night,Sometimes,no,no,4-6 hours,3,Yes,Sometimes,No
+Male,20,7-8 hours,Student,Student,Bachelor’s Degree,7.0,3,4,3,3,Healthy,No,no,Single,yes,yes,yes,At night,Sometimes,no,no,4-6 hours,2,No,Sometimes,No
+Female,18,7-8 hours,Student,Student,Bachelor’s Degree,8.5,9,5,4,3,Moderate,No,no,Single,yes,yes,yes,At night,Never,no,no,2-4 hours,4,No,Frequently,Yes
+Female,19,5-6 hours,Student,Student,Preparatory Classes,7.5,6,4,3,3,Moderate,No,no,Single,yes,yes,yes,At night,Never,no,no,2-4 hours,5,No,Never,No
+Female,17,5-6 hours,Student,Student,Preparatory Classes,8.0,2,5,1,2,Moderate,No,no,Single,no,no,yes,At night,Never,no,no,1-2 hours,4,No,Frequently,Yes
+Male,17,7-8 hours,Student,Student,Preparatory Classes,8.1,7,3,3,3,Healthy,No,yes,Single,yes,no,yes,At night,Never,no,no,4-6 hours,4,No,Frequently,No
+Male,18,7-8 hours,Student,Student,High School,8.5,0,4,3,3,Healthy,No,no,Single,no,no,no,At night,Sometimes,no,no,2-4 hours,3,No,Sometimes,No
+Female,26,7-8 hours,Student,Student,Master’s Degree,9.0,6,4,3,2,Moderate,No,no,Single,yes,yes,yes,At night,Sometimes,no,no,2-4 hours,4,No,Sometimes,No
+Male,18,5-6 hours,Student,Student,Engineering Diploma,8.0,5,5,2,4,Moderate,No,no,Single,no,no,no,At night,Sometimes,no,no,2-4 hours,2,Yes,Sometimes,No
+Female,20,5-6 hours,Student,Student,Engineering Diploma,5.5,7,4,2,4,Moderate,Yes,yes,Single,yes,no,no,During the day,Sometimes,no,yes,1-2 hours,4,No,Sometimes,Yes
+Male,24,More than 8 hours,Student,Student,Engineering Diploma,8.0,8,1,5,5,Healthy,Yes,yes,Single,no,yes,no,At night,Regularly,no,no,Less than 1 hour,4,No,Never,No
+Male,18,5-6 hours,Student,Student,Engineering Diploma,9.0,2,5,1,3,Moderate,No,no,Single,yes,no,yes,At night,Never,no,no,1-2 hours,1,Yes,Frequently,No
+Female,19,5-6 hours,Student,Student,High School,8.0,6,4,3,3,Moderate,No,no,Single,no,yes,yes,At night,Never,no,no,2-4 hours,3,Yes,Sometimes,No
+Male,18,5-6 hours,Student,Student,Preparatory Classes,7.0,11,4,3,4,Moderate,No,no,Single,yes,yes,no,At night,Never,no,no,1-2 hours,3,No,Sometimes,No
+Male,21,7-8 hours,Student,Student,High School,7.5,1,4,2,4,Moderate,Yes,yes,Single,yes,yes,no,At night,Never,no,no,4-6 hours,4,No,Sometimes,Yes
+Male,19,7-8 hours,Student,Student,Bachelor’s Degree,7.0,2,3,4,1,Moderate,Yes,yes,Single,yes,yes,no,At night,Sometimes,no,no,2-4 hours,5,No,Sometimes,Yes
+Female,21,7-8 hours,Student,Student,High School,7.0,0,3,1,2,Unhealthy,No,no,Single,yes,yes,yes,At night,Never,no,no,4-6 hours,4,Yes,Sometimes,Yes
+Male,18,5-6 hours,Student,Student,Preparatory Classes,7.0,8,4,4,2,Moderate,No,no,Single,yes,no,yes,At night,Sometimes,no,no,Less than 1 hour,3,No,Sometimes,No
+Male,20,7-8 hours,Student,Student,Preparatory Classes,7.0,3,4,3,3,Healthy,No,no,Single,yes,yes,yes,At night,Regularly,no,no,1-2 hours,5,No,Sometimes,No
+Female,18,5-6 hours,Student,Student,Preparatory Classes,7.0,6,3,2,4,Moderate,No,yes,Single,yes,no,no,At night,Never,no,no,2-4 hours,5,Yes,Frequently,No
+Male,18,7-8 hours,Student,Student,Preparatory Classes,6.5,3,5,2,3,Moderate,Yes,no,Single,yes,no,no,At night,Never,no,no,4-6 hours,3,Yes,Sometimes,Yes

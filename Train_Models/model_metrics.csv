@@ -1,0 +1,9 @@
+Model,Train Accuracy,Train Precision,Train Recall,Train F1 Score,Train ROC AUC,Test Accuracy,Test Precision,Test Recall,Test F1 Score,Test ROC AUC
+CatBoost,0.95,0.95,0.95,0.95,0.984,0.94,0.939,0.94,0.94,0.974
+XGBoost,0.948,0.948,0.948,0.948,0.984,0.938,0.937,0.938,0.937,0.973
+Logistic Regression,0.937,0.936,0.937,0.937,0.974,0.937,0.936,0.937,0.937,0.973
+Random Forest,1.0,1.0,1.0,1.0,1.0,0.935,0.934,0.935,0.934,0.97
+CatBoost with RandomizedSearchCV,0.941,0.941,0.941,0.941,0.977,0.94,0.939,0.94,0.94,0.975
+XGBoost with RandomizedSearchCV,0.942,0.941,0.942,0.941,0.977,0.94,0.939,0.94,0.939,0.975
+Logistic Regression with RandomizedSearchCV,0.914,0.931,0.914,0.919,0.974,0.912,0.929,0.912,0.916,0.973
+Random Forest with RandomizedSearchCV,0.914,0.931,0.914,0.919,0.974,0.912,0.929,0.912,0.916,0.973
